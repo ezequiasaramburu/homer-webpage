@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Speaker base -->
+  <path d="M14 24V40H20L32 48V16L20 24H14Z" fill="none" stroke="#666666" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Sound waves to indicate active sound -->
+  <path d="M38 24C39.5 25.5 41 27.5 41 32C41 36.5 39.5 38.5 38 40" stroke="#666666" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M45 20C47 22 49 25 49 32C49 39 47 42 45 44" stroke="#666666" stroke-width="2.5" stroke-linecap="round"/>
+</svg> 
